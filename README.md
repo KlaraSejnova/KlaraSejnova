@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KlaraSejnova
 - 👀 I’m interested in astronomy and programming languages and data
-- 🌱 I’m currently learning Python, HTML, CSS, Javascript and SQL
+- 🌱 I’m currently intern web developer in Solarwinds
 
 
 <!---
