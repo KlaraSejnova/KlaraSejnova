@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KlaraSejnova
 - 👀 I’m interested in astronomy and programming languages and data
-- 🌱 I’m currently junior frontend adn template developer in Papirfly
+- 🌱 I’m currently junior frontend and template developer in Papirfly
 
 
 <!---
