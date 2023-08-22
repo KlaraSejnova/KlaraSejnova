@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KlaraSejnova
-- 👀 I’m interested in astronomy and programming languages and data
+- 👀 I’m interested in astronomy and frontend development
 - 🌱 I’m currently junior frontend and template developer in Papirfly
 
 
